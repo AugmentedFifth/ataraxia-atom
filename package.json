@@ -1,9 +1,14 @@
 {
   "name": "language-ataraxia",
   "main": "./lib/language-ataraxia",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "language support for the ataraxia programming language",
-  "keywords": ["ataraxia", "aaa", "language", "syntax"],
+  "keywords": [
+    "ataraxia",
+    "aaa",
+    "language",
+    "syntax"
+  ],
   "repository": "https://github.com/AugmentedFifth/ataraxia-atom",
   "license": "UPL-1.0",
   "engines": {
