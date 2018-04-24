@@ -1,0 +1,13 @@
+{
+  "name": "language-ataraxia",
+  "main": "./lib/language-ataraxia",
+  "version": "0.0.0",
+  "description": "language support for the ataraxia programming language",
+  "keywords": ["ataraxia", "aaa", "language"],
+  "repository": "https://github.com/atom/language-ataraxia",
+  "license": "UPL-1.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
